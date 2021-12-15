@@ -14,7 +14,7 @@ public class Person {
     @Id
     Long id;
     String name;
-    String address;
+    Address address;
 
 
 }
